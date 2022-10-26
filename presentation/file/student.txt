@@ -1,0 +1,35 @@
+Name : kirezi 
+Trade: ict 
+ Class : l5 
+Home :  kirehe 
+ 
+ 
+ 
+Name : salim 
+Trade: net 
+ Class : s5 
+Home :  kigali 
+ 
+ 
+ 
+Name : ange 
+Trade: masso 
+ Class : s2 
+Home :  kagugu 
+ 
+ 
+ 
+Name : kaka 
+Trade: net 
+ Class: s1 
+Home : bugesera 
+ 
+ 
+ 
+Name : sandrine 
+Trade: cul 
+Class: s8 
+Home : kagugu 
+ 
+ 
+ 
